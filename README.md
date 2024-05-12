@@ -1,6 +1,6 @@
 # gemini_ia_flutter
 
-A new Flutter project.
+Ia gemini com integração no flutter
 
 ## Getting Started
 
